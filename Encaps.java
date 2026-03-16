@@ -26,5 +26,4 @@ public class Encaps {
     public int getCurrentRpm() {
         return this.currentRpm;
     }
-
 }
